@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyNote</string>
+
+    <string name="tab_menu_note">笔记</string>
+    <string name="tab_menu_query">搜索</string>
+    <string name="tab_menu_coll">待办</string>
+    <string name="tab_menu_setting">我的</string>
+    <string name="tab_title">备忘录</string>
+    <string name="input_username">username</string>
+    <string name="input_password">password</string>
+    <string name="ipt_check">check password</string>
+    <string name="login">login</string>
+    <string name="sign">sign in</string>
+</resources>
